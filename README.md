@@ -28,4 +28,4 @@ $ npm run start:dev
 ## Test
 
 To test you can run my Demo-test app
-See how to set it up [here](https://github.com/wout-junius/demot-test)
+See how to set it up [here]([https://github.com/wout-junius/demot-test](https://github.com/wout-junius/api-demo-tester)https://github.com/wout-junius/api-demo-tester)
